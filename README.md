@@ -24,6 +24,6 @@ Future Features:
 Known Issues:
 1. NYXI brand controllers pull too much current, and are not expected to work. All tested controllers work including official, Smash Bros branded, Phob 2.x, ProGCC, and Hori pads.
 
-Special Thanks:
- This project would not be possible without the available open source USB FPGA implementation from Wang Xuan. Thanks so much for the available FPGA resources for the various USB cores. https://github.com/WangXuan95/FPGA-USB-Device . This Gamecube Adapter uses a modified version of the USB-HID core to accept Gamecube Controller data.
+Special Thanks:     
+ This project would not be possible without the available open source USB FPGA implementation from Wang Xuan. Thanks so much for the available FPGA resources for the various USB cores. https://github.com/WangXuan95/FPGA-USB-Device . This Gamecube Adapter uses a modified version of the USB-HID core to accept Gamecube Controller data.     
  Bootloader to flash the firmware (.fs) used from the open source implementation of the Time Sleuth Tang Nano 4k, modified to work with Tang Nano 9k. Thank you, pthalin. https://github.com/pthalin/video_lag_tester/tree/main
