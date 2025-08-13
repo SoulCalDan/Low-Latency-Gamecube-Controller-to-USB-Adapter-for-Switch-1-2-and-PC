@@ -5,7 +5,7 @@ Features: <br>
      PC polling rate natively at 1000Hz in both GC and PC Modes <br>     Switch 1|2 polling rate is console limited at 125Hz
 3. Fix Gamecube NSO joystick calibration with a press of a button. 
 4. 4 player support, for games like Super Smash Bros Ultimate and the catalog of Gamecube NSO multiplayer games.
-5. Native Dolphin emulator support. No driver changes, no need to reconfigure polling rate, it just works.
+5. Native Dolphin emulator support. No driver changes, no need to reconfigure polling rate, just plug and play.
 6. Separate firmware available to configure the adapter in PC Mode to act as a XBOX360 controller on Windows/Linux, with 1000Hz native polling.
 7. Fully open source FPGA Verilog code, PCB schematics, 3D printed case, and firmware update tool.
    
