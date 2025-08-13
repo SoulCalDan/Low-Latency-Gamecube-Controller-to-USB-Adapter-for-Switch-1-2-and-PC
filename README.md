@@ -22,6 +22,7 @@ Future Features: <br>
 
 Known Issues: <br>
 1. NYXI brand controllers pull too much current, and are not expected to work. All tested controllers work including official, Smash Bros branded, Phob 2.x, ProGCC, and Hori pads.
+2. Connection to USB Hubs with other HIDs (mouse, keyboard, other controllers) may cause disconnects. May be driver related, but not sure. Just don't use a USB Hub if this causes an issue.
 
 Special Thanks: <br>
 1. This project would not be possible without the available open source USB FPGA implementation from Wang Xuan. Thanks so much for the available FPGA resources for the various USB cores.                     https://github.com/WangXuan95/FPGA-USB-Device . This Gamecube Adapter uses a modified version of the USB-HID core to accept Gamecube Controller data. <br>
