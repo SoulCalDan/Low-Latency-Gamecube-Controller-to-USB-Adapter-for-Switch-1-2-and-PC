@@ -2,8 +2,7 @@ This is an open source FPGA based USB adapter to connect a Nintendo Gamecube con
 
 Features:
 1. Sub 1ms latency! - timed from Gamecube button press to USB packet transfer.
-     PC polling rate natively at 1000Hz in both GC and PC Modes
-     Switch 1|2 polling rate is console limited at 125Hz
+     PC polling rate natively at 1000Hz in both GC and PC Modes <br>     Switch 1|2 polling rate is console limited at 125Hz
 3. Fix Gamecube NSO joystick calibration with a press of a button. 
 4. 4 player support, for games like Super Smash Bros Ultimate and the catalog of Gamecube NSO multiplayer games.
 5. Native Dolphin emulator support. No driver changes, no need to reconfigure polling rate, it just works.
@@ -22,7 +21,7 @@ Future Features:
 5. PCB updates to use a different (cheaper) FPGA
 
 Known Issues:
-1. NYXI brand controllers pull too much current, and are not expected to work. All tested controllers work including official, Smash Bros branded, Phob 2.x, ProGCC, and Hori pads.
+     1. NYXI brand controllers pull too much current, and are not expected to work. All tested controllers work including official, Smash Bros branded, Phob 2.x, ProGCC, and Hori pads.
 
 Special Thanks:     
-1.This project would not be possible without the available open source USB FPGA implementation from Wang Xuan. Thanks so much for the available FPGA resources for the various USB cores. https://github.com/WangXuan95/FPGA-USB-Device . This Gamecube Adapter uses a modified version of the USB-HID core to accept Gamecube Controller data. <br> 2. Bootloader to flash the firmware (.fs) used from the open source implementation of the Time Sleuth Tang Nano 4k, modified to work with Tang Nano 9k. Thank you, pthalin. https://github.com/pthalin/video_lag_tester/tree/main
+     1.This project would not be possible without the available open source USB FPGA implementation from Wang Xuan. Thanks so much for the available FPGA resources for the various USB cores. https://github.com/WangXuan95/FPGA-USB-Device . This Gamecube Adapter uses a modified version of the USB-HID core to accept Gamecube Controller data. <br>     2. Bootloader to flash the firmware (.fs) used from the open source implementation of the Time Sleuth Tang Nano 4k, modified to work with Tang Nano 9k. Thank you, pthalin. https://github.com/pthalin/video_lag_tester/tree/main
