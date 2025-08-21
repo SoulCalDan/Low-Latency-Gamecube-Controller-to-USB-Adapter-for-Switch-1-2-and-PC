@@ -21,7 +21,7 @@ Future Features: <br>
 5. PCB updates to use a different (cheaper) FPGA
 
 Known Issues: <br>
-1. NYXI brand controllers pull too much current, and are not expected to work. (NYXI has issues other adapters other than the official Nintendo branded)
+1. NYXI brand controllers pull too much current, and are not expected to work. (NYXI has polling issues using other adapters, but the official Nintendo branded ones work with NYXI brand products)
      - All tested controllers work including official, Smash Bros branded, Phob 2.x, ProGCC, and Hori pads.
 2. Connection to USB Hubs with other HIDs (mouse, keyboard, other controllers) may cause disconnects. May be driver related, but not sure. Just don't use a USB Hub if this causes an issue.
 
