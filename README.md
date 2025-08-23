@@ -30,6 +30,6 @@ Special Thanks: <br>
 2. Bootloader to flash the firmware (.fs) used from the open source implementation of the Time Sleuth Tang Nano 4k, modified to work with Tang Nano 9k. Thank you, pthalin.                     https://github.com/pthalin/video_lag_tester/tree/main <br>
 
 Parts Ordering:
-All parts except the PCB can be ordered with AliExpress. Gamecube connectors can be ordered in packs of 10 from the seller XOXNXEX. Any Tang Nano 9k seller is fine on AliExpress for about $23 a board. I will not provide links here due to listing frequenty changing and delisting. Amazon is not recommended due to the markup and availability. 
+All parts except the PCB can be ordered with AliExpress. Gamecube connectors can be ordered in packs of 10 from the seller XOXNXEX. Any Tang Nano 9k seller is fine on AliExpress for about $23 a board. I will not provide links here due to listing frequent changing and delisting. Amazon is not recommended due to the markup and availability. 
 
 Contact: Discord @ soulumbreon for inquiries. I will be selling a limited number of these adapters to the public.
