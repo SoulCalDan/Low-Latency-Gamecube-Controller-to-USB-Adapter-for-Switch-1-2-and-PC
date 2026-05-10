@@ -16,9 +16,9 @@ Features: <br>
 <img width="1990" height="785" alt="image" src="https://github.com/user-attachments/assets/b25c432e-2291-4d5a-b29f-25b5191b5798" />
 
 Future Features: <br>
-2. LCD Screen button input display
-4. Nintendo 64 controller support for N64 NSO and PC
-5. PCB updates to use a different (cheaper) FPGA
+1. LCD Screen button input display
+2. Nintendo 64 controller support for N64 NSO and PC
+3. PCB updates to use a different (cheaper) FPGA
 
 Known Issues: <br>
 1. NYXI brand controllers pull too much current, and are not expected to work. (NYXI has polling issues using other adapters, but the official Nintendo branded ones work with NYXI brand products)
