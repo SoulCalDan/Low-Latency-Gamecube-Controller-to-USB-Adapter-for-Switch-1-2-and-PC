@@ -10,7 +10,7 @@ Features: <br>
      - To avoid flashing firmware to the adapter, you can use "Delfinovin" software to act as a XBOX360 controller on PC
 8. Fully open source FPGA Verilog code, PCB schematics, 3D printed case, and firmware update tool.
    
-![PXL_20250812_210435340 MP](https://github.com/user-attachments/assets/6a2e6cdd-a9af-49cd-94a5-abf7ec3f653b)
+<img width="2378" height="1230" alt="image" src="https://github.com/user-attachments/assets/3f0b269d-63e4-4065-97d9-30fc0effc2b5" />
 ![PXL_20250812_210521479 MP](https://github.com/user-attachments/assets/0defaece-58ec-45e0-8d86-69b8bbf838ce)
 ![PXL_20250812_210556207 MP](https://github.com/user-attachments/assets/4f49512a-7d50-471b-9d27-b3cb9da89b82)
 
