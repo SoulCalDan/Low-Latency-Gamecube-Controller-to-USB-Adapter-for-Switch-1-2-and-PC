@@ -14,6 +14,8 @@ Features: <br>
 ![PXL_20250812_210521479 MP](https://github.com/user-attachments/assets/0defaece-58ec-45e0-8d86-69b8bbf838ce)
 ![PXL_20250812_210556207 MP](https://github.com/user-attachments/assets/4f49512a-7d50-471b-9d27-b3cb9da89b82)
 
+<img width="2573" height="1461" alt="image" src="https://github.com/user-attachments/assets/a2a437f2-6622-4671-8cb1-c23824ddbabd" />
+
 Future Features: <br>
 2. LCD Screen button input display
 4. Nintendo 64 controller support for N64 NSO and PC
