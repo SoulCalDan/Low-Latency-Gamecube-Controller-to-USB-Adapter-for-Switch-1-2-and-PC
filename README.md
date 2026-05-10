@@ -2,7 +2,7 @@ This is an open source FPGA based USB adapter to connect a Nintendo Gamecube con
 
 Features: <br>
 1. Sub 1ms latency! - timed from Gamecube button press to USB packet transfer.
-     - PC polling rate natively at 1000Hz in both GC and PC Modes <br>     Switch 1 polling rate is console limited at 125Hz. Switch 2 polling rate is increased to 1000Hz for NSO mode.
+     - PC polling rate natively at 1000Hz in both GC and PC Modes <br>     Switch 1 polling rate is console limited at 125Hz.  <br> Switch 2 polling rate is increased to 1000Hz for NSO mode.
 3. Fix Gamecube NSO joystick calibration with a press of a button. Acts as a wired Gamecube NSO controller.
 4. 4 player support, for games like Super Smash Bros Ultimate and the catalog of Gamecube NSO multiplayer games.
 6. Native Dolphin emulator support. No driver changes, no need to reconfigure for 1000Hz polling rate, just plug and play for the lowest latency possible.
