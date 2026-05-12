@@ -3,12 +3,10 @@ This is an open source FPGA based USB adapter to connect a Nintendo Gamecube con
 Features: <br>
 1. Sub 1ms latency! - timed from Gamecube button press to USB packet transfer.
      - PC polling rate natively at 1000Hz in both GC and PC Modes <br>     Switch 1 polling rate is console limited at 125Hz.  <br> Switch 2 polling rate is increased to 1000Hz for NSO mode.
-3. Fix Gamecube NSO joystick calibration with a press of a button. <br>     Acts as a wired Gamecube NSO controller, or a Switch 2 Pro Controller.
-4. 4 player support, for games like Super Smash Bros Ultimate and the catalog of Gamecube NSO multiplayer games.
-6. Native Dolphin emulator support. No driver changes, no need to reconfigure for 1000Hz polling rate, just plug and play for the lowest latency possible.
-7. Separate firmware available to configure the adapter in PC Mode to act as a XBOX360 controller on Windows/Linux, with 1000Hz native polling.
-     - To avoid flashing firmware to the adapter, you can use "Delfinovin" software to act as a XBOX360 controller on PC
-8. Fully open source FPGA Verilog code, PCB schematics, 3D printed case, and firmware update tool.
+2. Fix Gamecube NSO joystick calibration with a press of a button. <br>     Acts as a wired Gamecube NSO controller, or a Switch 2 Pro Controller.
+3. 4 player support, for games like Super Smash Bros Ultimate and the catalog of Gamecube NSO multiplayer games.
+4. Native Dolphin emulator support. No driver changes, no need to reconfigure for 1000Hz polling rate, just plug and play for the lowest latency possible.
+5. Open source PCB schematics, 3D printed case, and firmware update tool.
    
 <img width="2378" height="1230" alt="image" src="https://github.com/user-attachments/assets/3f0b269d-63e4-4065-97d9-30fc0effc2b5" />
 <img width="2403" height="1299" alt="image" src="https://github.com/user-attachments/assets/5cbef871-e9ff-4faf-b460-df413746858b" />
