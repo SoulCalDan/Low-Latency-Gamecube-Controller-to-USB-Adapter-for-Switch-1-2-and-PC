@@ -7,6 +7,7 @@ Features: <br>
 3. 4 player support, for games like Super Smash Bros Ultimate and the catalog of Gamecube NSO multiplayer games.
 4. Native Dolphin emulator support. No driver changes, no need to reconfigure for 1000Hz polling rate, just plug and play for the lowest latency possible.
 5. Open source PCB schematics, 3D printed case, and firmware update tool.
+6. Guaranteed the lowest latency possible on Switch 2 hardware, the first 1ms/1000Hz controller option available.
    
 <img width="2378" height="1230" alt="image" src="https://github.com/user-attachments/assets/3f0b269d-63e4-4065-97d9-30fc0effc2b5" />
 <img width="2403" height="1299" alt="image" src="https://github.com/user-attachments/assets/5cbef871-e9ff-4faf-b460-df413746858b" />
