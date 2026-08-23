@@ -17,14 +17,15 @@ Features: <br>
 <img width="1990" height="785" alt="image" src="https://github.com/user-attachments/assets/b25c432e-2291-4d5a-b29f-25b5191b5798" />
 
 Future Features: <br>
-1. LCD Screen button input display
-2. Nintendo 64 controller support for N64 NSO and PC
+1. S.N.A.C support for NES, SNES, Wii
+2. Nintendo 64 controller support for N64 NSO
 3. PCB updates to use a different (cheaper) FPGA
 
 Known Issues: <br>
 1. NYXI brand controllers pull too much current, and are not expected to work. (NYXI has polling issues using other adapters, but the official Nintendo branded ones work with NYXI brand products)
      - All tested controllers work including official, Smash Bros branded, Phob 2.x, ProGCC, and Hori pads.
-2. Connection to USB Hubs with other HIDs (mouse, keyboard, other controllers) may cause disconnects. Just don't use a USB Hub if this causes an issue.
+2. Connection to USB Hubs with other HIDs (mouse, keyboard, other controllers) may cause disconnects. Just don't use a USB Hub if this causes an issue
+3. Gamecube NSO Mode does not work on some European consoles, unknown if firmware related.
 
 Special Thanks: <br>
 1. This project would not be possible without the available open source USB FPGA implementation from Wang Xuan. Thanks so much for the available FPGA resources for the various USB cores.                     https://github.com/WangXuan95/FPGA-USB-Device . This Gamecube Adapter uses a modified version of the USB-HID core to accept Gamecube Controller data. <br>
