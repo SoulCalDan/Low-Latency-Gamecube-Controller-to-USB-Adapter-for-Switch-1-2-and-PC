@@ -1,4 +1,5 @@
 Designator,Footprint,Quantity,Value,LCSC Part #
-"R500_6, R500_5, R500_4, R500_3, R500_2",R_0402_1005Metric,5,1K0,
-R500,R_0402_1005Metric,1,1K5,C114451
-USB_C_RECEPTACLE_MOLEX_105450-0101,USB_C_Receptacle_Molex_105450-0101,1,USB_C_Receptacle_Molex_105450-0101,
+J5,USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal,1,USB_C_Receptacle_USB2.0_16P,
+"R1, R2",0402,2,5.1k,
+"R3, R4, R5, R6",0402,4,1k,
+R7,0402,1,1.5k,
