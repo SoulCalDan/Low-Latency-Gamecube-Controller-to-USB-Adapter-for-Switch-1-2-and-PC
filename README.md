@@ -10,6 +10,8 @@ Features: <br>
 4. Native Dolphin emulator support. No driver changes, no need to reconfigure for 1000Hz polling rate, just plug and play for the lowest latency possible.
 5. Open source PCB schematics, 3D printed case, and firmware update tool.
 6. The lowest latency possible on Switch 2 hardware, the first 1ms/1000Hz controller option available.
+
+[![The Switch Controller Companion](https://img.youtube.com/vi/SJr4faDXA8s/0.jpg)](https://www.youtube.com/watch?v=SJr4faDXA8s)
    
 <img width="2378" height="1230" alt="image" src="https://github.com/user-attachments/assets/3f0b269d-63e4-4065-97d9-30fc0effc2b5" />
 <img width="2403" height="1299" alt="image" src="https://github.com/user-attachments/assets/5cbef871-e9ff-4faf-b460-df413746858b" />
