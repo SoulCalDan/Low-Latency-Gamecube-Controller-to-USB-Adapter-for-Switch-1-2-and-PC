@@ -36,4 +36,4 @@ Special Thanks: <br>
 Parts Ordering:
 All parts except the PCB can be ordered with AliExpress. Gamecube connectors can be ordered in packs of 10 from the seller XOXNXEX. Any Tang Nano 9k seller is fine on AliExpress for about $23 a board. I will not provide links here due to listing frequent changing and delisting. Amazon is not recommended due to the markup and availability. 
 
-Discord link: https://discord.gg/HGZyS9J6Z
+Discord link: https://discord.gg/9cRn7hf5fv
